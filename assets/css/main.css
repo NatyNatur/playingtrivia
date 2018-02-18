@@ -1,0 +1,28 @@
+.title {
+  margin-top: 5em;
+}
+
+.questions {
+  font-size: 1.2em;
+  margin: 3em 0 1em;
+}
+
+.truncate {
+  width: 100%;
+  color: #FFF;
+  font-family: 'Gloria Hallelujah', cursive;
+  height: 1.5em;
+}
+
+#showingCategories div li {
+  list-style: none;
+}
+
+.btnCat {
+  height: auto;
+}
+
+.btnMultiAnswers {
+  vertical-align: top;
+  margin-bottom: 1em;
+}
